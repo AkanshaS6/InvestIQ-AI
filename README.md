@@ -36,3 +36,34 @@ npm run dev
 Create a .env file:
 
 GOOGLE_API_KEY=your_api_key
+## Setup
+
+### Backend
+
+cd server
+
+npm install
+
+Create .env
+
+GOOGLE_API_KEY=YOUR_API_KEY
+
+npm run dev
+
+Backend runs on
+
+http://localhost:5000
+
+--------------------------------
+
+### Frontend
+
+cd client
+
+npm install
+
+npm run dev
+
+Frontend runs on
+
+http://localhost:3000
